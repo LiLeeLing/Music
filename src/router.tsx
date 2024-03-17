@@ -1,5 +1,6 @@
 import {
-  createBrowserRouter,
+  // createBrowserRouter,
+  createHashRouter
 } from 'react-router-dom'
 
 import type { ReactNode } from 'react'
@@ -43,7 +44,8 @@ function playlistDetailQuery(id: number) {
   }
 }
 
-const router = createBrowserRouter(
+//const router = createBrowserRouter(
+const router = createHashRouter(
   [
     {
       path: '/',
