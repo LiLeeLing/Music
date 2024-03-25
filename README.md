@@ -3,6 +3,7 @@
   <img alt="home" src="https://user-images.githubusercontent.com/22021419/278869791-71b97ec0-366d-4eaa-98dd-50c035993f82.png">
 </picture>
 
+
 # Music You
 
 遵循<a href="https://m3.material.io/" target="_blank"> Material Design 3 (Material You)</a> 设计风格的桌面音乐播放器
